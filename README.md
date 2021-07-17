@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Hypeeer
-- 👀 I’m interested in ...Segurança da Informação
-- 🌱 I’m currently learning ...analise e desenvolvimento de sistemas
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in  information security
+- 🌱 I’m currently learning  analysis and systems developen
+- 💞️ I’m looking to collaborate on  project future
+- 📫 How to reach me 
 
 <!---
 Hypeeer/Hypeeer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
