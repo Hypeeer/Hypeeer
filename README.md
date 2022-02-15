@@ -1,8 +1,7 @@
 ## Ola! meu nome e João Vitor.
-- 🌱 estudando Analise e Desenvolvimento de Sistemas 
+- 🖥️ Estudando Analise e Desenvolvimento de Sistemas 
 - 🌱 Atualemnte estou estudando C e Python. 
-- 💞️ I’m looking to collaborate on  project future
-- 📫 How to reach me 
+- 💞️ Sou apaixonado em segurança da informaçao
  ##
 <div align="center">
   <a href="https://github.com/Hypeeer">
