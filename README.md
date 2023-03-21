@@ -1,6 +1,6 @@
 ## Ola! meu nome e João Vitor.
 - 🖥️ Estudando Analise e Desenvolvimento de Sistemas 
-- 🌱 Atualemnte estou estudando C e Python. 
+- 🌱 Atualemnte estou estudando JavaScript. 
 - 💞️ Sou apaixonado em segurança da informaçao
  ##
 <div align="center">
