@@ -12,7 +12,7 @@
   ##
   
   <div style="display: inline_block"><br>
-  <img align="center" alt="Hypeeer-JavaScript" height="35" width="150" src="https://www.flaticon.com/br/icone-gratis/js_5968292?term=javascript&page=1&position=3&origin=search&related_id=5968292">
+  <img align="center" alt="Hypeeer-JavaScript" height="35" width="150" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img align="center" alt="Hypeeer-C" height="35" width="125" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
 </div>
   
