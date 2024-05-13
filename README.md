@@ -1,7 +1,7 @@
 ## Ola! meu nome e João Vitor.
 - 🖥️ Formado em Análise e Desenvolvimento de Sistemas
 - 🌱 Atualemnte estou estudando JavaScript, Nodejs e SLQ. 
-- 💞️ Revisando conceitos de logicaa de programaçao
+- 💞️ Revisando conceitos de logica de programaçao
  ##
 <div align="center">
   <a href="https://github.com/Hypeeer">
