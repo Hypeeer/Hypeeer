@@ -1,7 +1,7 @@
 ## Ola! meu nome e João Vitor.
-- 🖥️ Estudando Analise e Desenvolvimento de Sistemas 
-- 🌱 Atualemnte estou estudando JavaScript. 
-- 💞️ Sou apaixonado em segurança da informaçao
+- 🖥️ Formado em Análise e Desenvolvimento de Sistemas
+- 🌱 Atualemnte estou estudando JavaScript, Nodejs e SLQ. 
+- 💞️ Revisando conceitos de logicaa de programaçao
  ##
 <div align="center">
   <a href="https://github.com/Hypeeer">
