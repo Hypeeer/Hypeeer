@@ -89,10 +89,24 @@ Uso o GitHub como um **portfólio profissional**, onde aplico na prática tudo o
 
 ## 📊 GitHub Stats
 
+## 📊 GitHub Stats
+
 <p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Hypeeer&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hypeeer&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Hypeeer&show_icons=true&theme=dark" />
 </p>
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hypeeer&layout=compact&theme=dark" />
+</p>
+
+<p align="left">
+  <img src="https://streak-stats.demolab.com?user=Hypeeer&theme=dark" />
+</p>
+
+<p align="left">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hypeeer&theme=github-dark" />
+</p>
+
 
 ---
 
