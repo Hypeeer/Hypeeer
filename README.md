@@ -12,13 +12,20 @@ Uso o GitHub como um **portfólio profissional**, onde aplico na prática tudo o
 ## 🌐 Onde me encontrar
 
 <p align="left">
-  <a href="https://github.com/Hypeeer">
-    <img src="https://img.shields.io/badge/GitHub-HYPEEER-181717?style=for-the-badge&logo=github" />
+  <a href="https://github.com/Hypeeer" target="_blank">
+    <img
+      src="https://img.shields.io/badge/GitHub-HYPEEER-181717?style=for-the-badge&logo=github"
+      alt="GitHub Hypeeer"
+    />
   </a>
-  <a href="https://www.linkedin.com/in/jvamarinhodev/">
-    <img src="https://img.shields.io/badge/LinkedIn-JO%C3%83O%20VITOR-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://www.linkedin.com/in/jvamarinhodev/" target="_blank">
+    <img
+      src="https://img.shields.io/badge/LinkedIn-JOAO%20VITOR-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+      alt="LinkedIn João Vitor"
+    />
   </a>
 </p>
+
 
 ---
 
