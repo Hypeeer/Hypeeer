@@ -24,13 +24,14 @@ Uso o GitHub como um **portfólio profissional**, onde aplico na prática tudo o
 
 ## 🧠 O que eu faço
 
-* 🧩 Desenvolvimento de **APIs RESTful**
-* 🏗️ Criação de **lógica de negócio** no backend
-* 🔐 Autenticação e autorização (JWT – básico)
-* 🗄️ Integração com **bancos de dados relacionais (SQL)**
-* ⚙️ Organização de projetos e modularização
-* 🧪 Testes manuais de API (Postman / Thunder Client)
-* 📚 Estudo contínuo e evolução técnica
+* 🧩 Desenvolvimento de **APIs RESTful** com foco em clareza, padrão e escalabilidade
+* 🏗️ Criação e manutenção da **lógica de negócio** no backend
+* 🔐 Implementação de autenticação e autorização (JWT)
+* 🗄️ Integração e manipulação de dados em **bancos de dados relacionais (SQL)** e **bancos de dados não relacionais (NoSQL)**
+* ⚙️ Estruturação de projetos backend com **arquitetura modular**
+* 🧪 Testes e validação de APIs utilizando (**Postman / Swagger**)
+* 🧪 Desenvolvimento de testes unitários com (**Jest**) 
+* 📚 Estudo contínuo e evolução técnica e prática
 
 ---
 
@@ -69,47 +70,13 @@ Uso o GitHub como um **portfólio profissional**, onde aplico na prática tudo o
 * Tratamento de erros
 * Integração com banco de dados
 
-🔗 **Repositório:** [link-do-projeto]
-
----
-
-### 🔹 Projeto 2 – API de Autenticação
-
-📌 **Descrição:**
-
-> Sistema de autenticação e autorização de usuários.
-
-🧩 **O que foi aplicado:**
-
-* Cadastro e login
-* Hash de senha
-* JWT
-* Rotas protegidas
-
-🔗 **Repositório:** [link-do-projeto]
-
----
-
-### 🔹 Projeto 3 – Projeto Backend Prático
-
-📌 **Descrição:**
-
-> Projeto simulando um sistema real de mercado.
-
-🧩 **O que foi aplicado:**
-
-* Arquitetura modular
-* SQL
-* Organização de código
-* Boas práticas
-
-🔗 **Repositório:** [link-do-projeto]
+🔗 **Repositório:** [https://github.com/Hypeeer/Sistema-de-cadastro-e-login-usando-JWT]
 
 ---
 
 ## 🚀 Objetivo profissional
 
-Conquistar minha **primeira oportunidade como Desenvolvedor Backend Júnior**, atuando com **Node.js**, **APIs REST** e **banco de dados**, evoluindo tecnicamente e contribuindo com o time.
+**Atuar como Desenvolvedor Backend Júnior**, com foco em **Node.js**, **APIs REST** e **banco de dados**, aplicando boas práticas, aprendendo com o time e contribuindo para o desenvolvimento de soluções escaláveis e bem estruturadas.
 
 ---
 
